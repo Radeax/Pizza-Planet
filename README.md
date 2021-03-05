@@ -4,9 +4,9 @@ By Andrew Hopkins, James Agyemang, Joven Poblete, and Robert Enojado</br>
 A Linux project created for the AWS re/Start and NCI 12 week course. Using Linux/Ubuntu, a user will use the command line interface to select a pizza for purchase. The core of the project will be using scripts to simulate the customer experience. Linux concepts and commands learned in the lessons will be incorporated, such as variables, conditionals, and functions.
 
 ### My Scripts
-main.sh - The main script containing the main menu and links to submenus. Includes cart and checkout.
-accounts.sh - View past orders
-functions.sh
+main.sh - The main script containing the main menu and links to submenus. Includes cart and checkout.  
+accounts.sh - View past orders  
+functions.sh  
 
 __To Run__
 
